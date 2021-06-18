@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.339d6c97.chunk.css",
-    "main.js": "/static/js/main.85f0fc24.chunk.js",
-    "main.js.map": "/static/js/main.85f0fc24.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.508e412b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.508e412b.js.map",
-    "static/js/2.4cc8d900.chunk.js": "/static/js/2.4cc8d900.chunk.js",
-    "static/js/2.4cc8d900.chunk.js.map": "/static/js/2.4cc8d900.chunk.js.map",
-    "static/js/3.352a713d.chunk.js": "/static/js/3.352a713d.chunk.js",
-    "static/js/3.352a713d.chunk.js.map": "/static/js/3.352a713d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.339d6c97.chunk.css.map": "/static/css/main.339d6c97.chunk.css.map",
-    "static/js/2.4cc8d900.chunk.js.LICENSE.txt": "/static/js/2.4cc8d900.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/sakthi-react-deploy/static/css/main.339d6c97.chunk.css",
+    "main.js": "/sakthi-react-deploy/static/js/main.85f0fc24.chunk.js",
+    "main.js.map": "/sakthi-react-deploy/static/js/main.85f0fc24.chunk.js.map",
+    "runtime-main.js": "/sakthi-react-deploy/static/js/runtime-main.73378488.js",
+    "runtime-main.js.map": "/sakthi-react-deploy/static/js/runtime-main.73378488.js.map",
+    "static/js/2.4cc8d900.chunk.js": "/sakthi-react-deploy/static/js/2.4cc8d900.chunk.js",
+    "static/js/2.4cc8d900.chunk.js.map": "/sakthi-react-deploy/static/js/2.4cc8d900.chunk.js.map",
+    "static/js/3.352a713d.chunk.js": "/sakthi-react-deploy/static/js/3.352a713d.chunk.js",
+    "static/js/3.352a713d.chunk.js.map": "/sakthi-react-deploy/static/js/3.352a713d.chunk.js.map",
+    "index.html": "/sakthi-react-deploy/index.html",
+    "static/css/main.339d6c97.chunk.css.map": "/sakthi-react-deploy/static/css/main.339d6c97.chunk.css.map",
+    "static/js/2.4cc8d900.chunk.js.LICENSE.txt": "/sakthi-react-deploy/static/js/2.4cc8d900.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sakthi-react-deploy/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.508e412b.js",
+    "static/js/runtime-main.73378488.js",
     "static/js/2.4cc8d900.chunk.js",
     "static/css/main.339d6c97.chunk.css",
     "static/js/main.85f0fc24.chunk.js"
